@@ -3,7 +3,7 @@
 
 ### 🖼️ Preview
 
-<img width="951" alt="image" src="https://github.com/GeorgeWanderson/StudifyBot/blob/main/blobs/DiscordBotScreenshot.jpg?raw=true">
+<img alt="image" src="https://github.com/GeorgeWanderson/StudifyBot/blob/main/blobs/DiscordBotScreenshot.jpg?raw=true">
 
 
 
